@@ -1,0 +1,24 @@
+
+.movies{  
+  display: flex;
+  flex-wrap: wrap;
+  overflow-x: auto;
+ justify-content: space-between;
+padding:200px;
+
+}
+.nav{
+  background-color: violet;
+  position: sticky;
+  top: 0;
+
+}
+.col{
+  display: flex;
+  flex-direction: column;
+}
+.add{
+  display: flex;
+  justify-content: center;
+}
+
